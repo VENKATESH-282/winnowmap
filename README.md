@@ -197,6 +197,10 @@ If you use Winnowmap2 in your work, please cite:
 
 ---
 
-## License
+## Author & Contact
 
-MIT
+
+Venkatesh R
+Bioinformatician – Long-read sequencing & pipeline development
+
+📧 Email: venkatbioinfo282@gmail.com
